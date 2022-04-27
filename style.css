@@ -32,12 +32,14 @@
 .header__brand a span {
     font-size: 32px;
     font-weight: 600;
+    color: #fff;
 }
 
 .header__brand a p {
     font-size: 14px;
     font-weight: 600;
     margin-top: -5px;
+    color: #fff;
 }
 
 .header__navbar {
