@@ -627,7 +627,6 @@ html,body
 .project__img {
     overflow: hidden;
     height: auto;
-    margin: 15px auto;
     position: relative;
     width: 100%;
 }
@@ -639,6 +638,8 @@ html,body
 
 .project__item {
     position: relative;
+    margin: 15px auto;
+    overflow: hidden;
 }
 
 .project__item:hover .project__img img {
