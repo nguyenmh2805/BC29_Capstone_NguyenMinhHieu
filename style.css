@@ -115,6 +115,11 @@ html,body
     cursor: pointer;
 }
 
+.navbar-toggler {
+    background-color: #009f4d;
+    border: 1px solid #009f4d;
+}
+
 /* Carousel  */
 
 .carousel-inner {
