@@ -1402,7 +1402,7 @@ footer {
 /* Responsive */
 /* Header */
 /* // Extra small devices (portrait phones, less than 576px) */
-/* @media (max-width: 575.98px) {
+@media (max-width: 575.98px) {
     .header__logo{
         display: none;
     }
@@ -1424,7 +1424,62 @@ footer {
     .arrow__right{
         display: none;
     }
-} */
+
+    .product__title {
+        margin-bottom: 40px;
+    }
+
+    .service__title h1 {
+        font-size: 25px;
+    }
+
+    .project__title p {
+        font-size: 30px;
+    }
+
+    .our__title p {
+        font-size: 30px;
+    }
+
+    .news__title p {
+        font-size: 30px;
+    }
+
+    .news__card {
+        margin-bottom: 20px;
+    }
+
+    .search__bgr {
+        padding: 0;
+    }
+
+    .search__title p {
+        font-size: 12px;
+        padding: 0;
+    }
+
+    .form-control {
+        padding: 0;
+        font-size: 12px;
+    }
+
+    .btn {
+        font-size: 12px;
+        padding: 0 10px;
+    }
+
+    .footer__margin {
+        margin-bottom: 30px;
+    }
+
+    .footer__icon {
+        margin-top: 15px;
+    }
+
+    .client__all {
+        margin: 0;
+    }
+}
 
 /* // Small devices (landscape phones, 576px and up) */
 /* @media (min-width: 576px) and (max-width: 767.98px) { ... } */
